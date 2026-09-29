@@ -1,0 +1,5 @@
+Archetype,Direct_Loss_Severe_$B,Initial_Distress,Final_Distress,DebtRank,Second_Round_Loss_$B
+Hardware,239.4,0.0302,0.0302,0.0,0.0
+Cloud Providers,132.7,0.0111,0.0112,0.0,1.27
+Foundation Models,85.39,0.0351,0.0408,0.0006,13.86
+LLM Wrappers,20.83,0.0226,0.0226,0.0,0.07

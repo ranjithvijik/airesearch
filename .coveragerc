@@ -1,0 +1,7 @@
+[run]
+source = ai_ecosystem_model, build_technical_report, build_interactive_dashboard, build_prediction_enhancement, build_crisis_backtest, build_compare_2008_ai, build_prediction_artifacts, build_retirement_exposure, run_pipeline
+omit = test_ai_ecosystem_model.py
+
+[report]
+show_missing = False
+skip_covered = False

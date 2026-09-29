@@ -1,0 +1,7 @@
+Game,NE_Stability_Pct,Mean_DWL_$B,Screen
+Hardware-LLM Wrappers,97.3,241.69,review: stable loss pocket
+Hardware-Foundation Models,81.2,198.67,review: stable loss pocket
+Cloud Providers-LLM Wrappers,97.5,176.85,review: stable loss pocket
+Cloud Providers-Foundation Models,80.3,137.75,review: stable loss pocket
+Hardware-Cloud Providers,64.7,60.09,—
+Foundation Models-LLM Wrappers,61.4,25.57,—

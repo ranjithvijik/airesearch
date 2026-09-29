@@ -1,0 +1,5 @@
+Player_Category,Base_Elasticity,Elasticity_Range_Low,Elasticity_Range_High,Conservative_Lerner,Base_Lerner,Aggressive_Lerner,Conservative_Markup_%,Base_Markup_%,Aggressive_Markup_%,Literature_Source
+Cloud Providers,-1.8,-2.5,-1.2,0.4,0.5555555555555556,0.8333333333333334,66.66666666666667,125.00000000000003,500.00000000000017,Shapiro & Varian (1999); Bakos & Brynjolfsson (2000)
+Hardware,-1.5,-2.0,-1.2,0.5,0.6666666666666666,0.8333333333333334,100.0,199.99999999999997,500.00000000000017,Scherer & Ross (1990)
+Foundation Models,-2.5,-3.5,-1.8,0.2857142857142857,0.4,0.5555555555555556,40.0,66.66666666666667,125.00000000000003,Farrell & Klemperer (2007)
+LLM Wrappers,-4.0,-6.0,-3.0,0.16666666666666666,0.25,0.3333333333333333,20.0,33.33333333333333,49.99999999999999,Sutton (1991)

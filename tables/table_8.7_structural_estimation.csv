@@ -1,0 +1,10 @@
+Block,Parameter,Base,Ident_Low,Ident_High,Preserves,Status
+A3 rate maps,t_intercept,0.1,0.0,0.3,All 6 Nash position sets,open-low+high
+A3 rate maps,t_slope,0.4,0.0,1.2,All 6 Nash position sets,open-low+high
+A3 rate maps,s_intercept,0.05,0.0,0.3,All 6 Nash position sets,open-low+high
+A3 rate maps,s_slope,0.25,0.0,0.8,All 6 Nash position sets,open-low+high
+A8 logit weights,intercept,-1.2,-3.0,0.5,Exact formation order,open-low+high
+A8 logit weights,w_circ,1.6,0.7362,3.0,Exact formation order,open-high
+A8 logit weights,w_capex,0.9,0.3454,2.6275,Exact formation order,interior
+A8 logit weights,w_hhi,0.7,0.0977,1.6699,Exact formation order,interior
+A8 logit weights,w_exub,0.8,0.0,1.0447,Exact formation order,open-low

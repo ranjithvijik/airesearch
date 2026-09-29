@@ -1,0 +1,13 @@
+Game,Seed,Base_Mean_DWL_$B,Seed_Mean_DWL_$B,Drift_$B,Drift_in_SE,Verdict
+Hardware-Cloud Providers,GLOBAL_SEED+1,60.09,60.16,0.0672,0.21,replicated
+Hardware-Foundation Models,GLOBAL_SEED+1,198.67,198.64,0.03,0.11,replicated
+Hardware-LLM Wrappers,GLOBAL_SEED+1,241.69,241.89,0.1978,0.74,replicated
+Cloud Providers-Foundation Models,GLOBAL_SEED+1,137.75,137.96,0.2044,0.92,replicated
+Cloud Providers-LLM Wrappers,GLOBAL_SEED+1,176.85,177.32,0.4616,2.14,replicated
+Foundation Models-LLM Wrappers,GLOBAL_SEED+1,25.57,25.56,0.0154,0.2,replicated
+Hardware-Cloud Providers,GLOBAL_SEED+2,60.09,60.36,0.2651,0.83,replicated
+Hardware-Foundation Models,GLOBAL_SEED+2,198.67,198.28,0.3954,1.39,replicated
+Hardware-LLM Wrappers,GLOBAL_SEED+2,241.69,241.76,0.0642,0.24,replicated
+Cloud Providers-Foundation Models,GLOBAL_SEED+2,137.75,137.87,0.1156,0.52,replicated
+Cloud Providers-LLM Wrappers,GLOBAL_SEED+2,176.85,177.1,0.242,1.12,replicated
+Foundation Models-LLM Wrappers,GLOBAL_SEED+2,25.57,25.6,0.023,0.31,replicated

@@ -1,0 +1,13 @@
+Player,Strategy,Short-term Payoff,Long-term Payoff,Difference (L-S),Long/Short Ratio (%),Time Preference,Risk Level
+Cloud Providers,Full Stack,5.00,8.00,+3.00,160.0,Long-term,Medium
+Cloud Providers,Selective Partnership,3.00,4.00,+1.00,133.3,Long-term,Low
+Cloud Providers,Infrastructure Only,2.00,2.00,+0.00,100.0,Neutral,Low
+Foundation Models,Compete Direct,4.00,5.00,+1.00,125.0,Long-term,Medium
+Foundation Models,Exclusive Deals,3.00,-2.00,-5.00,-66.7,Short-term,Critical
+Foundation Models,Support Wrappers,2.00,-1.00,-3.00,-50.0,Short-term,High
+Hardware,Open Access,6.00,9.00,+3.00,150.0,Long-term,Low
+Hardware,Exclusive Deals,5.00,3.00,-2.00,60.0,Short-term,High
+Hardware,Price Control,7.00,2.00,-5.00,28.6,Short-term,Critical
+LLM Wrappers,Vertical Integration,2.00,6.00,+4.00,300.0,Long-term,High
+LLM Wrappers,Premium Pricing,1.00,3.00,+2.00,300.0,Long-term,Medium
+LLM Wrappers,Subsidize Usage,-3.00,-4.00,-1.00,133.3,Short-term,Critical

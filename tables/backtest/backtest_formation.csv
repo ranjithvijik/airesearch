@@ -1,0 +1,5 @@
+Archetype,Circular_Exposure,Capex_Intensity,HHI_Share,Exuberance,Z_Score,Formation_Prob_Pct,Prob_Low_Pct,Prob_High_Pct
+Investors,0.957,0.5,0.45,0.0,1.096,74.9,66.7,81.7
+Securitizers,1.0,0.5,0.3,0.0,1.06,74.3,65.9,81.2
+Originators,1.0,0.5,0.15,0.0,0.955,72.2,63.5,79.5
+Guarantors,1.0,0.5,0.1,0.0,0.92,71.5,62.7,78.9

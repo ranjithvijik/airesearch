@@ -1,0 +1,7 @@
+Game,N_Valid,Geweke_z,p_value,Verdict,Holm_verdict
+Hardware-Cloud Providers,99967,-0.74,0.4594,stationary,stationary
+Hardware-Foundation Models,90895,-0.062,0.9503,stationary,stationary
+Hardware-LLM Wrappers,99736,0.163,0.8702,stationary,stationary
+Cloud Providers-Foundation Models,90612,-0.123,0.9017,stationary,stationary
+Cloud Providers-LLM Wrappers,99734,1.2,0.23,stationary,stationary
+Foundation Models-LLM Wrappers,96532,-0.134,0.8936,stationary,stationary

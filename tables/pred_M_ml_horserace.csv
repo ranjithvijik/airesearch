@@ -1,0 +1,8 @@
+Fit,Context,N_crash,Model_cap,Base_cap,Model_auc,Base_auc,Winner,Coef_dd,Coef_dur,Coef_vol
+FULL train 2000-15,train,273,0.586,0.385,0.817,0.645,model,0.489,1.327,0.059
+FULL train 2000-15,late-test,13,1.0,1.0,0.951,0.899,tie,0.489,1.327,0.059
+WF train 2000-06,train,167,0.557,0.305,0.835,0.573,model,0.194,2.331,-0.713
+WF train 2000-06,wf-test,106,0.443,0.509,0.581,0.799,base,0.194,2.331,-0.713
+WF train 2000-06,late-test,13,0.538,1.0,0.586,0.899,base,0.194,2.331,-0.713
+REV train 2007+,train,119,0.689,0.563,0.864,0.777,model,0.93,0.428,0.373
+REV train 2007+,rev-test,167,0.539,0.305,0.804,0.573,model,0.93,0.428,0.373

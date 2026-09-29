@@ -1,0 +1,15 @@
+Test,Grade,Model says,Reading
+T1 formation top-2 = Securitizers+Investors,PASS,"['Investors', 'Securitizers']",Loop densest where distress concentrated; flat multiples compress spread
+"T2 burst $: Investors first, Originators last (head+tail exact, middle swapped)",PASS,Investors > Securitizers > Guarantors > Originators,Head right; Guarantors understated: protection-written losses need clearing engine (same caution applies to AI $105B guarantee layer)
+T3 network share of loss > AI 3.2%,PASS,42.9%,Dense flows + thin buffers propagate; AI buffers contain round two
+T4 least stable = Originators (failed Apr 2007),PASS,Originators,First-to-fail (Originators) vs biggest-loser (Investors): same crossing as AI
+T5 2008 GDP: wealth channel > capex channel (reverse of AI),PASS,$520B wealth > $400B residential capex (stylized analog),"Two-channel structure handles both mixes: AI capex-led, 2008 wealth-led"
+T6 Saltelli: shared circularity top-tier ST driver (Inv-Guar pair),PASS,"ST=0.97, top=Shared circularity","Lock-in interaction dominates trapped value, as in AI (ST 0.99)"
+G1 stuck equilibrium in originate-to-distribute chain,FAIL,Originators-Securitizers:$0B(ok); Originators-Investors:$0B(ok); Originators-Guarantors:$0B(ok); Securitizers-Investors:$0B(ok); Securitizers-Guarantors:$10B(STUCK); Investors-Guarantors:$35B(STUCK),"Miss as specified; model instead finds the stuck cells at the guarantor nexus (Sec-Guar $15B, Inv-Guar $220B) -- where 2008 detonated"
+G2 mean Nash reproduction >= 60% (20k draws),PASS,84.0%,"Modal outcomes reproduce under payoff noise, as in AI"
+G3 2008 system highly concentrated (HHI > 2500),PASS,"HHI 3,249 vs AI 3,851",Concentration is why one break becomes systemic
+G4 joint-draw burst agreement >= 50%,PASS,"burst 100%, formation 80%, OAT 15/16 + 12/16",Real StructuralEstimationAnalyzer on 2008 frame
+"A1 Spearman(predicted, actual loss ranks) >= 0.8",PASS,rho=0.80 (n=4),Ordinal accuracy of the incidence prediction
+A2 Investors predicted $ within 0.3x-3x of ~$690B actual,PASS,$256B = 0.37x actual,Order-of-magnitude dollar accuracy at the head
+A3 GDP analog within 0.5x-2x of ~$630B actual fall,PASS,1.46x,Two-channel GDP arithmetic transfers across crises
+A0 top 2008 remedy archetype matches ex-post history,PASS,GPU-collateral lending caps,Ex-ante prescription vs Dodd-Frank risk-retention/disclosure/backstops

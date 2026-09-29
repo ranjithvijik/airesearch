@@ -1,0 +1,18 @@
+\begin{tabular}{lll}
+\toprule
+Metric & Value & Provenance \\
+\midrule
+401(k) equity-fund assets ($T, ICI Q2-2026) & 3.700000 & S: ICI retirement assets Q2-2026 ($3.7T equity funds in 401(k)s) \\
+IRA equity-fund assets ($T, ICI Q2-2026) & 4.800000 & S: ICI Q2-2026 ($4.8T equity funds in IRAs) \\
+Mag-7 share of S&P 500 (Dec-2025-Aug-2026) & 0.340000 & S: DataTrek/Morningstar via press, 33-35% range; 0.34 used \\
+Retirement fund-held Big Tech equity floor ($T) & 2.890000 & 8.5T fund equity x 0.34 market-weight; excludes hybrids, DB direct holdings, taxable accounts: a floor \\
+Top-10% share of equities (Fed DFA) & 0.870000 & S: Fed Distributional Financial Accounts via 22V/FH analysis \\
+Paper uniform wealth channel, severe ($B) & 19.100000 & Live: tables/table_7.12_gdp_impact.csv (MPC 0.04) \\
+Implied severe market-cap loss ($B) & 477.500000 & 19.1 / 0.04: the equity base the 4c MPC applies to \\
+Heterogeneous-MPC wealth channel memo ($B) & 6.1-7.0 & Memo: same $477.5B base x (q x 0.008 + (1-q) x 0.075), q in [0.90, 0.93] anchored on DFA top-10% 87% \\
+High-MPC holders' balance-sheet slice ($B) & 33.4-47.7 & Memo: (1-q) of the market-cap loss sits with 7.5c households \\
+That slice's consumption drag ($B) & 2.5-3.6 & Memo: slice x 0.075; adequacy shock beyond this flow \\
+Uniform capex channel, severe ($B) & 120.000000 & Live: Table 7.12 (unchanged by this addendum) \\
+Combined GDP, uniform ($B) & 139.100000 & Live: Table 7.12 headline, unchanged \\
+\bottomrule
+\end{tabular}

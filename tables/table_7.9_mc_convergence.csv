@@ -1,0 +1,7 @@
+Game,N_Valid,Mean_DWL_$B,MCSE_DWL_$B,MCSE_Rel_Pct,Split_Half_Rel_Diff_Pct,Assessment
+Cloud Providers-Foundation Models,90612,137.75,0.1611,0.117,0.019,adequate
+Cloud Providers-LLM Wrappers,99734,176.85,0.1531,0.087,0.144,adequate
+Foundation Models-LLM Wrappers,96532,25.57,0.0538,0.21,0.117,adequate
+Hardware-Cloud Providers,99967,60.09,0.2271,0.378,0.579,adequate
+Hardware-Foundation Models,90895,198.67,0.2054,0.103,0.338,adequate
+Hardware-LLM Wrappers,99736,241.69,0.1895,0.078,0.263,adequate

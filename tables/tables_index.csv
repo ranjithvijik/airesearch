@@ -1,0 +1,30 @@
+Table,File,Description,Status
+1.1,table_1.1.csv/.tex/.xlsx,Market Structure Metrics,saved
+1.3_proj,table_1.3.proj.csv/.tex/.xlsx,Revenue Projections,saved
+2.4,table_2.4.csv/.tex/.xlsx,Player Categories,saved
+3.1,table_3.1.csv/.tex/.xlsx,Cloud vs Foundation Payoff Matrix,saved
+3.2,table_3.2.csv/.tex/.xlsx,Hardware vs Cloud Payoff Matrix,saved
+A.0_network,table_A.0.network.csv/.tex/.xlsx,Network Centrality (Appendix),saved
+3.4,table_3.4.csv/.tex/.xlsx,"Core-Game Equilibrium, Coordination & DWL",saved
+4.1,table_4.1.csv/.tex/.xlsx,Monte Carlo & Sensitivity Summary,saved
+8_1,table_8.1.csv/.tex/.xlsx,Stationarity Diagnostics (Geweke),saved
+8_2,table_8.2.csv/.tex/.xlsx,Multi-Seed Replicability,saved
+8_3,table_8.3.csv/.tex/.xlsx,Noise-Level Robustness,saved
+8_4,table_8.4.csv/.tex/.xlsx,Saltelli Variance Decomposition,saved
+8_5,table_8.5.csv/.tex/.xlsx,Assumption Register,saved
+8_6,table_8.6.csv/.tex/.xlsx,Validated Inputs Register,saved
+7.16_market_share_evolution,table_7.16.market.share.evolution.csv/.tex/.xlsx,Market-Share Evolution 2025 vs 2030 (Revenue Projections),saved
+7.17_lerner_markup_summary,table_7.17.lerner.markup.summary.csv/.tex/.xlsx,Lerner Index & Markup Summary with Uncertainty Bands,saved
+7.18_shapley_vs_revenue_share,table_7.18.shapley.vs.revenue.share.csv/.tex/.xlsx,Shapley Share vs Revenue Share (Bargaining vs Size),saved
+5.1,table_1.1.csv (alias),Market Structure Metrics,alias
+5.2,table_3.2.csv (alias),Hardware vs Cloud Payoff Matrix,alias
+5.3,table_5.3.csv/.tex/.xlsx,Welfare Decomposition,saved
+5.4,table_5.4.csv/.tex/.xlsx,Dynamic Game Analysis (Short vs Long-term),saved
+5.4_coop,table_5.4.coop.csv/.tex/.xlsx,Shapley Value Allocation (Cooperative Game),saved
+6.1_6.3,table_6.1.6.3.csv/.tex/.xlsx,Policy Simulation Summary (v4.0),saved
+6.4_bcr_break_even,table_6.4.bcr.break.even.csv/.tex/.xlsx,BCR Break-Even Conditions (welfare + burst families),saved
+7.1b_within_layer_hhi,table_7.1b.within.layer.hhi.csv/.tex/.xlsx,Within-Layer Revenue Concentration (company-share HHI),saved
+A.4_layer_exposure,table_A.4.layer.exposure.csv/.tex/.xlsx,Exposure by Layer (multilayer framing subtotals),saved
+A.1_network_risk,table_A.1.network.risk.csv/.tex/.xlsx,Network Risk Metrics,saved
+A.2_portfolio_risk,table_A.2.portfolio.risk.csv/.tex/.xlsx,Portfolio Risk Metrics,saved
+A.3_success_scores,table_A.3.success.scores.csv/.tex/.xlsx,Success Probability Scores,saved

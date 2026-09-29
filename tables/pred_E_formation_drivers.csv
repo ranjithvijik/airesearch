@@ -1,0 +1,5 @@
+Archetype,Circ_expo,Capex_int,HHI_share,Exuberance,Z,Score_pct,Band_lo,Band_hi
+Foundation Models,0.8,0.7,0.103,1.0,1.582,82.9,76.5,87.9
+Hardware,0.4,0.9,0.459,0.831,1.237,77.5,69.8,83.7
+Cloud Providers,0.232,0.6,0.403,0.093,0.069,51.7,41.8,61.5
+LLM Wrappers,0.027,0.2,0.035,1.0,-0.153,46.2,36.5,56.1

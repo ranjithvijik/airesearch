@@ -1,0 +1,7 @@
+Metric,Value
+Total Dependency ($B),570.40
+Critical Dependency ($B),536.90
+Critical Risk Ratio (%),94.1
+HHI (Dependencies),0.4853
+Network Density,0.4167
+Critical Nodes,"Hardware, Cloud Providers"

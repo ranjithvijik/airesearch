@@ -1,0 +1,6 @@
+Rank,Trigger,Observable,Current_marker,Tripwire
+1,Frontier-lab down-round / pulled mega-round,"Announced round size, tenor, debt conversion",Anthropic $965B; xAI 400x rev; Databricks 905x,"Round shrinks, stretches, or converts to debt"
+2,Conditional tranches lapse,Drawdown announcements vs milestone dates,"~$60B disclosed, unbooked (GOOG $30B milestones, AMZN $20B, NVDA up-to-$10B)",Deadline passes with no drawdown
+3,Neocloud refinancing failure,GPU-collateral paper spreads; 'strategic' extensions,CoreWeave-model funding; supplier resale guarantees,Failed roll / collateral-class repricing
+4,Rating/spread contagion,Single-name CDS + rating actions in burst order,Oracle 5Y 215bp; BBB-; $570B pipeline (1.43x capex),Next leveraged name gaps like Oracle
+5,Hyperscaler capex guidance cut,Earnings-call capex language (joint cuts),~$733B 2026 guidance sum = demand floor,Two hyperscalers cut together

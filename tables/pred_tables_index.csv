@@ -1,0 +1,14 @@
+stem,figures,use
+pred_A_scenario_ledger,"pred_scenario_ladder, pred_gdp_waterfall",Section 10 scenarios: mild/severe/activation ledger
+pred_B_trigger_watchlist,pred_valuation_scatter,Section 9 triggers: observable + tripwire per trigger
+pred_C_valuation_watchlist,pred_valuation_scatter,"Section 11 watchlist: 23-company screen, compact"
+pred_D_robustness_ledger,pred_robustness_survival,Section 8 stress record: burst vs formation survival split
+pred_E_formation_drivers,pred_formation_bands,Section 6 bubble scores: driver decomposition + bands
+pred_F_early_warning,pred_open_weights,Sections 6-7: five-screen early-warning dashboard per archetype
+pred_G_burst_timing,pred_timing_window,Burst-timing addendum: hazard-implied window + median per archetype (Sept 2026 vintage)
+pred_H_company_losses,pred_company_losses,Burst-loss addendum: 23-company severe/mild split on mcap and exposure bases
+pred_I_price_gauges,pred_gauge_backtest,Price gauges: convexity t-stats + hazard per context (live + frozen backtests)
+pred_J_gauge_backtest,pred_gauge_backtest,"Hazard backtest: SPY crash-week capture vs baseline, stated weights"
+pred_K_expected_losses,pred_expected_losses,Quant memo: per-player expected burst loss (severity blend) with driver
+pred_L_timing_rationale,pred_timing_call,Quant memo: why-ledger behind the conditional burst-timing call
+pred_M_ml_horserace,pred_ml_horserace,"RSI evaluation: L2-logit vs stated hazard, walk-forward scoreboard (negative: no stable winner)"

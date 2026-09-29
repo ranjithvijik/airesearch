@@ -1,0 +1,5 @@
+Archetype,Formation_Prob_Pct,Circular_Exposure_Pct,Direct_Loss_Severe_$B,Network_Loss_Severe_$B,Total_Loss_Severe_$B,Total_Loss_Mild_$B,Equity_Impact_Severe_Pct,Revenue_Impact_Severe_Pct,Burst_Rank
+Incumbents,52.6,35.9,55.54,86.48,142.01,23.8,20.3,64.3,1
+Vendors,64.3,55.9,32.48,33.91,66.39,13.92,8.3,80.0,2
+Financiers,53.9,50.1,36.82,0.0,36.82,15.78,6.1,35.1,3
+AltCarriers,79.3,76.4,3.42,2.29,5.71,1.47,4.8,89.3,4

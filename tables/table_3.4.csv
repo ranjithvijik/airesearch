@@ -1,0 +1,17 @@
+Metric,Value
+"Core Game Nash Strategies (P1, P2)","(Open Access, Proprietary Stack)"
+"Core Game Nash Payoffs ($B, P1, P2)","(487.94, 606.82)"
+Core Game Nash Total Welfare ($B),1094.76
+"Core Game Pareto Strategies (P1, P2)","(Walled Garden, Interoperable Stack)"
+Core Game Pareto Total Welfare ($B),1153.35
+Core Game Efficiency Ratio (%),94.92
+Core Game Deadweight Loss ($B),58.59
+Aggregate Deadweight Loss ($B),416.77
+Aggregate Efficiency (%),71.28
+Core Game Coordination Failure?,True
+Core Game Failure Severity,Moderate
+Coordination Failures DWL Source ($B),60.01
+Monopoly Pricing DWL Source ($B),35.86
+Innovation Distortion DWL Source ($B),106.97
+Quality Degradation DWL Source ($B),71.31
+Switching Costs DWL Source ($B),142.62

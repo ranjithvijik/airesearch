@@ -1,0 +1,18 @@
+\begin{tabular}{llll}
+\toprule
+Test & Grade & Model says & Reading \\
+\midrule
+U1 formation top-2 = Vendors+AltCarriers & PASS & ['AltCarriers', 'Vendors'] & Loop densest where vendor credit met thin buyers \\
+U2 burst $: Vendors first, Financiers last (head+tail exact) & PARTIAL & Incumbents > Vendors > Financiers > AltCarriers & Sellers who funded their buyers absorbed the most; lenders least \\
+U3 network share of loss > AI 3.2% & PASS & 48.9% & Receivables failed together with sales: round-trip propagation \\
+U4 least stable = AltCarriers (failed 2001) & PASS & AltCarriers & First-to-fail (CLECs) vs biggest-loser (Vendors): same crossing as AI \\
+U5 telecom investment fall capex-led (like AI, unlike 2008 wealth-led) & PASS & ~$100B nonresidential IT investment fall 2000-01 (BEA, A) & Bust arithmetic travels across mixes: capex-led here and in AI \\
+A1 Spearman(predicted, actual loss ranks) >= 0.8 & FAIL & rho=0.60 (n=4) & Ordinal accuracy of the incidence prediction \\
+A2 Vendors predicted $ within 0.3x-3x of ~$900B actual & FAIL & $66B = 0.07x actual & Order-of-magnitude dollar accuracy at the head \\
+U6 Saltelli: shared circularity top-tier ST driver (Inc-Alt pair) & PASS & ST=0.96, top=AltCarrier margin & Lock-in interaction dominates trapped value, as in AI (ST 0.99) \\
+G1 stuck equilibrium in vendor-to-buyer chain & PASS & Vendors-Incumbents:$0B(ok); Vendors-AltCarriers:$27B(STUCK); Vendors-Financiers:$0B(ok); Incumbents-AltCarriers:$93B(STUCK); Incumbents-Financiers:$42B(STUCK); AltCarriers-Financiers:$0B(ok) & Vendor financing locks the seller to the buyer it funded \\
+G2 mean Nash reproduction >= 60% (20k draws) & PASS & 85.8% & Modal outcomes reproduce under payoff noise, as in AI \\
+G3 telecom system highly concentrated (HHI > 2500) & PASS & HHI 3,871 vs AI 3,851 & Concentration is why one break becomes systemic \\
+G4 joint-draw burst agreement >= 50% & PASS & burst 100%, formation 63%, OAT 16/16 + 12/16 & Real StructuralEstimationAnalyzer on telecom frame \\
+\bottomrule
+\end{tabular}

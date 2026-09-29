@@ -1,0 +1,5 @@
+Archetype,P1_Narrative_Tilt,P2_Multiple_Exuberance,P3_Multiple_Expansion,P4_Circular_Hype_Proxy,P5_Capex_Intensity,Composite,Informative_Pillars,Classification,Data_Note
+Cloud Providers,1.0,0.0,0.267,0.0,0.822,0.317,4,Buildout,excluded from composite: P5 (ecosystem context; constant by construction)
+Foundation Models,0.02,0.21,0.799,1.0,0.822,0.507,4,Bubble risk,excluded from composite: P5 (ecosystem context; constant by construction)
+Hardware,0.0,0.033,0.599,1.0,0.822,0.408,4,Boom,excluded from composite: P5 (ecosystem context; constant by construction)
+LLM Wrappers,0.019,0.389,1.0,0.0,0.822,0.352,4,Boom,excluded from composite: P5 (ecosystem context; constant by construction)

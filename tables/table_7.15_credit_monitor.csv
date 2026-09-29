@@ -1,0 +1,14 @@
+Metric,Value,Basis
+Oracle 5Y CDS (bp),215.0,Sep 2026 vintage: record single-name print
+Implied 1Y hazard (%),3.58,"Approx s/(1-R), R=40% stated"
+Oracle rating action,BBB- (downgrade),Sep 2026 vintage: downgrade
+2026 AI debt run_pipeline ($B),570.0,Sep 2026 vintage: 2026 run_pipeline
+Pipeline-to-capex (x),1.43,Pipeline / 2025 Big Four capex ($400B)
+Record single-day bond ($B),18.0,Sep 2026 vintage: Oracle single-day sale
+"GPU haircut Low circularity, base/stressed",15%/30%,Stated scenario parameters (wrong-way collateral sale)
+"GPU haircut Moderate circularity, base/stressed",25%/45%,Stated scenario parameters (wrong-way collateral sale)
+"GPU haircut High circularity, base/stressed",35%/60%,Stated scenario parameters (wrong-way collateral sale)
+Downgrade watchlist #1,"Hardware (-$239.4B, 3.0% equity)",Live burst-rank order (Table 7.11)
+Downgrade watchlist #2,"Cloud Providers (-$132.7B, 1.1% equity)",Live burst-rank order (Table 7.11)
+Downgrade watchlist #3,"Foundation Models (-$85.4B, 3.5% equity)",Live burst-rank order (Table 7.11)
+Downgrade watchlist #4,"LLM Wrappers (-$20.8B, 2.4% equity)",Live burst-rank order (Table 7.11)

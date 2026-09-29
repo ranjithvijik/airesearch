@@ -1,0 +1,8 @@
+Channel,Severity,GDP_Loss_$B,GDP_Share_Pct,Basis
+AI capex cut,mild,40.0,0.13,US AI capex $400B x 10% cut (BEA GDP $30767B; no multiplier)
+Equity wealth effect,mild,8.2,0.027,Severe burst loss scaled x0.43 x MPC 0.04 (consumption drag)
+Combined,mild,48.2,0.157,Sum of channels above (no interaction terms)
+AI capex cut,severe,120.0,0.39,US AI capex $400B x 30% cut (BEA GDP $30767B; no multiplier)
+Equity wealth effect,severe,19.1,0.062,Severe burst loss scaled x1.00 x MPC 0.04 (consumption drag)
+Combined,severe,139.1,0.452,Sum of channels above (no interaction terms)
+Transmission rule (any economy),per $100B AI value destroyed,4.0,,Apply to own GDP: loss x MPC 0.04; add domestic capex-cut share

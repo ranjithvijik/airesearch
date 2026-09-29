@@ -1,0 +1,9 @@
+Dependent_Category,Dependency_Category,Total_Dependency_Value_Billions,Aggregate_Risk_Level,Number_of_Dependencies
+Foundation Models,Hardware,354.2,Critical,2
+Foundation Models,Cloud Providers,177.2,Critical,6
+Foundation Models,Fluidstack ($50B reported compute),50.0,High,1
+Foundation Models,SpaceX Colossus ($45B reported capacity),45.0,High,1
+Cloud Providers,Foundation Models,31.5,High,3
+Foundation Models,Volta Infra ($10B reported),10.0,Medium,1
+Cloud Providers,Hardware,5.5,Critical,2
+LLM Wrappers,Foundation Models,2.0,High,1

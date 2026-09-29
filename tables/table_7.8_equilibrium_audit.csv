@@ -1,0 +1,7 @@
+Game,Reported_NE_Count,Audit_NE_Count,Reported_First_NE,Count_Match,Position_Match
+Cloud Providers-Foundation Models,1,1,"(0, 1)",True,True
+Cloud Providers-LLM Wrappers,2,2,"(0, 1)",True,True
+Foundation Models-LLM Wrappers,1,1,"(1, 1)",True,True
+Hardware-Cloud Providers,2,2,"(0, 1)",True,True
+Hardware-Foundation Models,1,1,"(0, 1)",True,True
+Hardware-LLM Wrappers,2,2,"(0, 1)",True,True

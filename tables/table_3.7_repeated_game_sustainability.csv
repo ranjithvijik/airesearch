@@ -1,0 +1,7 @@
+Game,P1_Critical_Delta,P1_Status,P2_Critical_Delta,P2_Status,Binding_Player,Critical_Delta,Status,Sustainable_No_Transfers
+Hardware-Cloud Providers,0.0,no deviation incentive,0.0,no deviation incentive,Hardware,0.0,no deviation incentive,True
+Hardware-Foundation Models,0.0,no deviation incentive,inf,Nash reversion is not a credible punishment,Foundation Models,inf,Nash reversion is not a credible punishment,False
+Hardware-LLM Wrappers,0.0,no deviation incentive,0.0,no deviation incentive,Hardware,0.0,no deviation incentive,True
+Cloud Providers-Foundation Models,0.0,no deviation incentive,inf,Nash reversion is not a credible punishment,Foundation Models,inf,Nash reversion is not a credible punishment,False
+Cloud Providers-LLM Wrappers,0.0,no deviation incentive,0.0,no deviation incentive,Cloud Providers,0.0,no deviation incentive,True
+Foundation Models-LLM Wrappers,0.0,no deviation incentive,inf,Nash reversion is not a credible punishment,LLM Wrappers,inf,Nash reversion is not a credible punishment,False

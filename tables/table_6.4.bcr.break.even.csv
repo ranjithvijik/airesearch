@@ -1,0 +1,10 @@
+Family,Intervention,Denominator_$B,Reduction_%_Base,Cost_$B_Base,BCR_Base,BCR_Conservative,BreakEven_Reduction_Pct,Headroom_pp,Pays_At_Base
+welfare (DWL),API Interoperability Mandate,416.77,35.0,5.0,29.17374382558048,14.884563176316574,1.2,33.8,Yes
+welfare (DWL),Antitrust Enforcement,416.77,25.0,2.0,52.09597111710801,15.628791335132401,0.48,24.52,Yes
+welfare (DWL),Innovation Subsidies,416.77,22.499999999999996,8.0,11.7215935013493,5.2095971117108,1.92,20.58,Yes
+welfare (DWL),Data Sharing Mandate,416.77,18.0,3.0,25.006066136211842,10.002426454484738,0.72,17.28,Yes
+welfare (DWL),Combined Intervention,416.77,55.00000000000001,15.0,15.28148486101835,9.377274801079441,3.6,51.4,Yes
+burst (severe loss),Circular-deal disclosure & margin rules,478.32,15.0,2.0,35.87,,0.42,14.58,Yes
+burst (severe loss),GPU-collateral lending caps,478.32,12.0,1.0,57.4,,0.21,11.79,Yes
+burst (severe loss),Strategic compute reserve / backstop,478.32,10.0,6.0,7.97,,1.25,8.75,Yes
+burst (severe loss),Combined bubble-mitigation package,478.32,30.0,9.0,15.94,,1.88,28.12,Yes

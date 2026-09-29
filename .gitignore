@@ -1,0 +1,39 @@
+# Python bytecode / caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Pipeline + stage run logs (regenerated every run)
+run_pipeline_run_*.log
+*_run_2*.log
+*.log
+
+# Coverage artifacts
+.coverage
+coverage.xml
+htmlcov/
+
+# LaTeX auxiliary output (kept out; PDFs are committed for reviewers)
+*.aux
+*.toc
+*.out
+*.synctex.gz
+texput.log
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# iCloud / sync conflict duplicates (break the directory-globbing gates)
+* 2.*
+* 3.*
+
+# Local-only review notes
+/tmp/

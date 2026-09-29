@@ -1,0 +1,216 @@
+
+================================================================================
+COMPREHENSIVE VALUATION METRICS REPORT
+Beyond DCF: 50+ Additional Metrics
+================================================================================
+
+HARDWARE:
+------------------------------------------------------------
+
+NVIDIA:
+  Market Cap: $5280.0B
+  P/E: 31.7x, Forward P/E: 19.0x
+  EV/Revenue: 17.4x
+  ROIC: 2.9%, Spread: -7.1%
+  Circular Dependency: 2.00x (High)
+  Sustainability: 78/100
+  Screen flag: Positive
+
+AMD:
+  Market Cap: $746.0B
+  P/E: 89.2x, Forward P/E: 62.5x
+  EV/Revenue: 17.0x
+  ROIC: 0.9%, Spread: -9.1%
+  Circular Dependency: 2.00x (High)
+  Sustainability: 69/100
+  Screen flag: Negative
+
+Intel:
+  Market Cap: $110.0B
+  EV/Revenue: 1.9x
+  ROIC: 4.4%, Spread: -5.6%
+  Circular Dependency: 2.00x (High)
+  Sustainability: 68/100
+  Screen flag: Neutral
+
+Broadcom:
+  Market Cap: $1500.0B
+  P/E: 35.7x, Forward P/E: 7.1x
+  EV/Revenue: 15.0x
+  ROIC: 2.8%, Spread: -7.2%
+  Circular Dependency: 2.00x (High)
+  Sustainability: 76/100
+  Screen flag: Positive
+
+Marvell:
+  Market Cap: $80.0B
+  P/E: 59.3x, Forward P/E: 38.5x
+  EV/Revenue: 8.9x
+  ROIC: 1.5%, Spread: -8.5%
+  Circular Dependency: 2.00x (High)
+  Sustainability: 69/100
+  Screen flag: Neutral
+
+Google (TPU):
+  Market Cap: $200.0B
+  P/E: 66.7x, Forward P/E: 40.0x
+  EV/Revenue: 20.0x
+  ROIC: 1.5%, Spread: -8.5%
+  Circular Dependency: 2.00x (High)
+  Sustainability: 73/100
+  Screen flag: Neutral
+
+CLOUD PROVIDERS:
+------------------------------------------------------------
+
+Microsoft Azure:
+  Market Cap: $3600.0B
+  P/E: 27.1x, Forward P/E: 22.2x
+  EV/Revenue: 10.8x
+  ROIC: 3.5%, Spread: -6.5%
+  Circular Dependency: 1.16x (Moderate)
+  Sustainability: 75/100
+  Screen flag: Positive
+
+AWS:
+  Market Cap: $3100.0B
+  P/E: 34.9x, Forward P/E: 30.7x
+  EV/Revenue: 4.2x
+  ROIC: 2.6%, Spread: -7.4%
+  Circular Dependency: 1.16x (Moderate)
+  Sustainability: 68/100
+  Screen flag: Neutral
+
+Google Cloud:
+  Market Cap: $4600.0B
+  P/E: 34.4x, Forward P/E: 30.3x
+  EV/Revenue: 10.3x
+  ROIC: 2.7%, Spread: -7.3%
+  Circular Dependency: 1.16x (Moderate)
+  Sustainability: 73/100
+  Screen flag: Neutral
+
+Oracle:
+  Market Cap: $480.0B
+  P/E: 28.5x, Forward P/E: 23.6x
+  EV/Revenue: 7.1x
+  ROIC: 3.9%, Spread: -6.1%
+  Circular Dependency: 1.16x (Moderate)
+  Sustainability: 72/100
+  Screen flag: Positive
+
+CoreWeave:
+  Market Cap: $70.0B
+  EV/Revenue: 5.8x
+  ROIC: -1.5%, Spread: -11.5%
+  Circular Dependency: 1.16x (Moderate)
+  Sustainability: 64/100
+  Screen flag: Neutral
+
+Nebius:
+  Market Cap: $55.0B
+  EV/Revenue: 17.2x
+  ROIC: -0.5%, Spread: -10.5%
+  Circular Dependency: 1.16x (Moderate)
+  Sustainability: 64/100
+  Screen flag: Neutral
+
+Lambda Labs:
+  Market Cap: $5.0B
+  EV/Revenue: 5.0x
+  ROIC: -3.5%, Spread: -13.5%
+  Circular Dependency: 1.16x (Moderate)
+  Sustainability: 62/100
+  Screen flag: Neutral
+
+FOUNDATION MODELS:
+------------------------------------------------------------
+
+OpenAI:
+  Market Cap: $852.0B
+  EV/Revenue: 21.3x
+  ROIC: -1.1%, Spread: -11.1%
+  Circular Dependency: 4.00x (High)
+  Sustainability: 60/100
+  Screen flag: Neutral
+
+Anthropic:
+  Market Cap: $965.0B
+  EV/Revenue: 14.8x
+  ROIC: 0.0%, Spread: -10.0%
+  Circular Dependency: 4.00x (High)
+  Sustainability: 66/100
+  Screen flag: Neutral
+
+Meta (Llama):
+  Market Cap: $400.0B
+  P/E: 95.2x, Forward P/E: 71.4x
+  EV/Revenue: 26.7x
+  ROIC: 0.9%, Spread: -9.1%
+  Circular Dependency: 4.00x (High)
+  Sustainability: 72/100
+  Screen flag: Neutral
+
+Mistral:
+  Market Cap: $15.0B
+  EV/Revenue: 15.0x
+  ROIC: -2.1%, Spread: -12.1%
+  Circular Dependency: 4.00x (High)
+  Sustainability: 58/100
+  Screen flag: Neutral
+
+xAI:
+  Market Cap: $200.0B
+  EV/Revenue: 400.0x
+  ROIC: -0.3%, Spread: -10.3%
+  Circular Dependency: 4.00x (High)
+  Sustainability: 36/100
+  Screen flag: Neutral
+
+LLM WRAPPERS:
+------------------------------------------------------------
+
+Palantir:
+  Market Cap: $432.0B
+  P/E: 133.6x, Forward P/E: 53.4x
+  EV/Revenue: 56.1x
+  ROIC: 0.5%, Spread: -9.5%
+  Circular Dependency: 0.13x (Low)
+  Sustainability: 73/100
+  Screen flag: Neutral
+
+ServiceNow:
+  Market Cap: $151.0B
+  P/E: 84.7x, Forward P/E: 67.8x
+  EV/Revenue: 9.3x
+  ROIC: 0.9%, Spread: -9.1%
+  Circular Dependency: 0.13x (Low)
+  Sustainability: 68/100
+  Screen flag: Negative
+
+Databricks:
+  Market Cap: $190.0B
+  P/E: 904.8x, Forward P/E: 452.4x
+  EV/Revenue: 27.1x
+  ROIC: 0.0%, Spread: -10.0%
+  Circular Dependency: 0.13x (Low)
+  Sustainability: 66/100
+  Screen flag: Neutral
+
+Perplexity:
+  Market Cap: $20.0B
+  EV/Revenue: 26.7x
+  ROIC: -3.1%, Spread: -13.1%
+  Circular Dependency: 0.13x (Low)
+  Sustainability: 46/100
+  Screen flag: Neutral
+
+Cursor:
+  Market Cap: $60.0B
+  EV/Revenue: 15.0x
+  ROIC: -1.1%, Spread: -11.1%
+  Circular Dependency: 0.13x (Low)
+  Sustainability: 62/100
+  Screen flag: Neutral
+
+================================================================================

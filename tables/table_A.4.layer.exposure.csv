@@ -1,0 +1,8 @@
+Layer,Booked,Rows,Value_$B,Share_of_Committed_Pct,Exposure_Treatment
+committed-procurement,committed,9,518.4,76.8,Payment obligation: enters DebtRank propagation at face (A9)
+ownership-equity,committed,7,52.0,7.7,"Enterprise-value exposure: valuation haircut + DCF adjust, not DebtRank"
+credit-guarantee,committed,1,105.0,15.5,Contingent liability: booked at face and flagged; pays only on default
+prospective-capacity,"MEMO (tracked, not booked)",1,500.0,,"MEMO: tracked, excluded from committed total and all loss math"
+vertical-integration,"MEMO (tracked, not booked)",1,12.93,,"MEMO: tracked as control, excluded from committed total and all loss math"
+TOTAL committed,committed,17,675.4,100.0,sums the three committed layers above
+TOTAL tracked,committed + MEMO,19,1188.33,,committed total plus memo rows

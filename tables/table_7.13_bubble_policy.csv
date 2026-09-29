@@ -1,0 +1,5 @@
+Intervention,Burst_Reduction_%_Conservative,Burst_Reduction_%_Base,Burst_Reduction_%_Optimistic,Loss_Reduction_$B_Base,Cost_$B_Base,Net_Benefit_$B_Base,BCR_Base,Net_Benefit_$B_Conservative,Net_Benefit_$B_Optimistic,Basis_Source
+Circular-deal disclosure & margin rules,10.0,15.0,20.0,71.75,2.0,69.75,35.87,44.83,94.66,Scenario assumption; informed by SEC related-party disclosure regime
+GPU-collateral lending caps,8.0,12.0,18.0,57.4,1.0,56.4,57.4,36.27,85.6,Scenario assumption; bank-supervisor collateral guidance analogy
+Strategic compute reserve / backstop,5.0,10.0,15.0,47.83,6.0,41.83,7.97,13.92,67.75,Scenario assumption; SPR-style buffer analogy
+Combined bubble-mitigation package,20.0,30.0,40.0,143.5,9.0,134.5,15.94,81.66,185.33,Scenario assumption; complementarity across the three tools

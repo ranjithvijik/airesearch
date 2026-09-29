@@ -1,0 +1,7 @@
+Metric,Value
+"Crash weeks (>=20% drawdown, SPY 2000-2026)",286.0
+Scored weeks,1448.0
+Top-quintile threshold,100.0
+Crash-week capture share,0.413
+Baseline share,0.2
+Lift over baseline,2.06

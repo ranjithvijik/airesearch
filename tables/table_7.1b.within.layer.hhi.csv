@@ -1,0 +1,5 @@
+Layer,Companies_Included,Included_Revenue_$B,Top_Company,Top_Share_Pct,HHI_Points,DOJ_Band,Note
+Hardware,5,513.9,NVIDIA,58.9,4056.5,Highly concentrated,NVIDIA majority; Google TPU attributed revenue excluded by rule
+Cloud Providers,5,860.4,Google Cloud,51.8,4237.6,Highly concentrated,Google Cloud revenue is Alphabet-attributed: upper-bound screening diagnostic; AWS/Lambda attributed revenues excluded by rule
+Foundation Models,2,105.0,Anthropic,61.9,5283.4,Highly concentrated,frontier duo; Meta Llama/Mistral/xAI attributed revenues excluded by rule
+LLM Wrappers,2,23.9,ServiceNow,67.8,5632.4,Highly concentrated,n=2 thin screen; Perplexity/Cursor/Databricks attributed revenues excluded by rule

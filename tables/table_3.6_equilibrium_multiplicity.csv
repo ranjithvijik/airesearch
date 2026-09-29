@@ -1,0 +1,10 @@
+Game,N_Pure_NE,Equilibrium_Profile,Joint_Payoff_$B,Nash_Product,Risk_Dominant,Payoff_Dominant,Aligned,Selection_Note
+Hardware-Cloud Providers,2,Open Access / Proprietary Stack,1094.7573896797592,1499.0163228095282,Walled Garden / Interoperable Stack,Walled Garden / Interoperable Stack,True,Efficient equilibrium is payoff- and risk-dominant; persistence of the inferior equilibrium requires lock-in/history explanation.
+Hardware-Cloud Providers,2,Walled Garden / Interoperable Stack,1153.3516952846794,2255.575337657849,Walled Garden / Interoperable Stack,Walled Garden / Interoperable Stack,True,Efficient equilibrium is payoff- and risk-dominant; persistence of the inferior equilibrium requires lock-in/history explanation.
+Hardware-Foundation Models,1,,,,,,,Not applicable: not exactly two 2x2 pure equilibria.
+Hardware-LLM Wrappers,2,Open Access / Independent App,609.0313333333334,655.4239999999998,Open Access / Independent App,Walled Garden / Deep Integration,False,Risk dominance opposes payoff dominance; a commitment device is needed.
+Hardware-LLM Wrappers,2,Walled Garden / Deep Integration,856.0666666666667,332.8799999999996,Open Access / Independent App,Walled Garden / Deep Integration,False,Risk dominance opposes payoff dominance; a commitment device is needed.
+Cloud Providers-Foundation Models,1,,,,,,,Not applicable: not exactly two 2x2 pure equilibria.
+Cloud Providers-LLM Wrappers,2,Interoperable Stack / Independent App,544.338,598.8787199999994,Interoperable Stack / Independent App,Proprietary Stack / Deep Integration,False,Risk dominance opposes payoff dominance; a commitment device is needed.
+Cloud Providers-LLM Wrappers,2,Proprietary Stack / Deep Integration,725.016,236.18879999999965,Interoperable Stack / Independent App,Proprietary Stack / Deep Integration,False,Risk dominance opposes payoff dominance; a commitment device is needed.
+Foundation Models-LLM Wrappers,1,,,,,,,Not applicable: not exactly two 2x2 pure equilibria.

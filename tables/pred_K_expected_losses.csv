@@ -1,0 +1,24 @@
+Company,Archetype,P_burst_pct,Mild_mid_$B,Severe_mid_$B,E_loss_$B,E_haircut_pct,Driver,Reading
+NVIDIA,Hardware,77.5,47.22,198.3,164.31,3.1,deal-flow,P_burst = Hardware formation 77.5% (upper-bound convention); severe loss is deal-flow-driven
+Anthropic,Foundation Models,82.9,12.48,41.69,36.7,3.8,deal-flow,P_burst = Foundation Models formation 82.9% (upper-bound convention); severe loss is deal-flow-driven
+OpenAI,Foundation Models,82.9,9.42,31.47,27.7,3.3,deal-flow,P_burst = Foundation Models formation 82.9% (upper-bound convention); severe loss is deal-flow-driven
+Microsoft Azure,Cloud Providers,51.7,7.97,36.37,22.65,0.6,size,P_burst = Cloud Providers formation 51.7% (upper-bound convention); severe loss is size-driven
+AWS,Cloud Providers,51.7,7.58,34.61,21.55,0.7,deal-flow,P_burst = Cloud Providers formation 51.7% (upper-bound convention); severe loss is deal-flow-driven
+Broadcom,Hardware,77.5,5.4,22.68,18.79,1.3,size,P_burst = Hardware formation 77.5% (upper-bound convention); severe loss is size-driven
+Lambda Labs,Cloud Providers,51.7,5.96,27.22,16.95,100.0,deal-flow,P_burst = Cloud Providers formation 51.7% (upper-bound convention); severe loss is deal-flow-driven
+Google Cloud,Cloud Providers,51.7,5.62,25.63,15.97,0.3,size,P_burst = Cloud Providers formation 51.7% (upper-bound convention); severe loss is size-driven
+AMD,Hardware,77.5,2.69,11.28,9.35,1.3,size,P_burst = Hardware formation 77.5% (upper-bound convention); severe loss is size-driven
+Meta (Llama),Foundation Models,82.9,2.53,8.46,7.45,1.9,size,P_burst = Foundation Models formation 82.9% (upper-bound convention); severe loss is size-driven
+CoreWeave,Cloud Providers,51.7,1.29,5.9,3.67,5.2,deal-flow,P_burst = Cloud Providers formation 51.7% (upper-bound convention); severe loss is deal-flow-driven
+Google (TPU),Hardware,77.5,1.01,4.27,3.54,1.8,size,P_burst = Hardware formation 77.5% (upper-bound convention); severe loss is size-driven
+Palantir,LLM Wrappers,46.2,0.1,7.36,3.45,0.8,size,P_burst = LLM Wrappers formation 46.2% (upper-bound convention); severe loss is size-driven
+xAI,Foundation Models,82.9,1.05,3.51,3.09,1.5,size,P_burst = Foundation Models formation 82.9% (upper-bound convention); severe loss is size-driven
+Databricks,LLM Wrappers,46.2,0.06,4.4,2.07,1.1,size,P_burst = LLM Wrappers formation 46.2% (upper-bound convention); severe loss is size-driven
+ServiceNow,LLM Wrappers,46.2,0.06,3.93,1.85,1.2,deal-flow,P_burst = LLM Wrappers formation 46.2% (upper-bound convention); severe loss is deal-flow-driven
+Oracle,Cloud Providers,51.7,0.58,2.67,1.66,0.3,size,P_burst = Cloud Providers formation 51.7% (upper-bound convention); severe loss is size-driven
+Intel,Hardware,77.5,0.4,1.66,1.38,1.3,size,P_burst = Hardware formation 77.5% (upper-bound convention); severe loss is size-driven
+Cursor,LLM Wrappers,46.2,0.04,2.82,1.32,2.2,deal-flow,P_burst = LLM Wrappers formation 46.2% (upper-bound convention); severe loss is deal-flow-driven
+Perplexity,LLM Wrappers,46.2,0.03,2.33,1.09,5.5,deal-flow,P_burst = LLM Wrappers formation 46.2% (upper-bound convention); severe loss is deal-flow-driven
+Marvell,Hardware,77.5,0.29,1.21,1.0,1.2,size,P_burst = Hardware formation 77.5% (upper-bound convention); severe loss is size-driven
+Mistral,Foundation Models,82.9,0.08,0.26,0.23,1.5,size,P_burst = Foundation Models formation 82.9% (upper-bound convention); severe loss is size-driven
+Nebius,Cloud Providers,51.7,0.07,0.31,0.19,0.3,size,P_burst = Cloud Providers formation 51.7% (upper-bound convention); severe loss is size-driven

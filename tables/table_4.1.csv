@@ -1,0 +1,13 @@
+Parameter,Value
+Number of Simulations,"100,000"
+Payoff Perturbation Std Dev,5.0%
+Confidence Level,98%
+Mean Simulated DWL ($B),60.09
+98% CI Lower Bound ($B),0.00
+98% CI Upper Bound ($B),269.59
+Standard Deviation of DWL ($B),71.80
+Nash Equilibrium Stability (%),64.7
+Parameter Analyzed,Market DWL Percentage
+Base Value,28.72%
+Range Tested (%),±20%
+Elasticity,1.41

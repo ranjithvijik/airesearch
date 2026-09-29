@@ -1,0 +1,7 @@
+Game,Game_Type,NE_Payoff_Premium_Pct,DWL_$B,Efficiency_Pct
+Hardware-LLM Wrappers,Coordination Failure,81.5,247.04,71.1
+Hardware-Foundation Models,Coordination Failure,56.4,205.59,76.6
+Cloud Providers-LLM Wrappers,Coordination Failure,79.3,180.68,75.1
+Cloud Providers-Foundation Models,Coordination Failure,52.0,141.24,81.1
+Hardware-Cloud Providers,Coordination Failure,10.9,58.59,94.9
+Foundation Models-LLM Wrappers,Dominant Strategy NE (Inefficient),49.5,34.62,80.5

@@ -1,0 +1,6 @@
+Attack,Burst_rank,Formation_rank,Source
+16 one-at-a-time extremes,"Holds 16/16, HW first always",Holds 10/16 (honest weaker link),RobustnessBattery OAT
+300 joint draws,100% agreement,65% agreement,Joint-draw check (seed 7)
+2 reseed reruns (12 games),All replicate in tolerance,All replicate in tolerance,Seed screen
+Noise 2.5/5/10%,64.7% Nash reproduction at base,"Bands widen, order broadly kept",Measurement-noise screen
+Saltelli decomposition,Shared circularity top driver (0.99),Circular exposure dominates logit,Sensitivity (Table 8.x)

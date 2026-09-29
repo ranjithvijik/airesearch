@@ -1,0 +1,4 @@
+Scenario,Frame_$B,Impair_share,Capex_cut,Direct_loss_$B,Second_round_$B,GDP_loss_$B,GDP_share_pct,Reading
+Mild,675.4,0.3,0.1,111.9,n/a (severe-only),48.2,0.157,"Bad quarter, no recession print"
+Severe (base prediction),675.4,0.7,0.3,478.3,15.2,139.1,0.452,Upstream-concentrated repricing
+Activation-then-severe (scaled x1.088),735.0,0.7,0.3,520.5,16.5 (scaled),151.4,0.492,Every burst figure scales up ~9%

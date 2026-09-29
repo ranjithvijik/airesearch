@@ -1,0 +1,6 @@
+Economy,GDP_$B,GDP_Basis,AI_Capex_Base_$B,Impaired_AI_Value_$B,Capex_Cut_Share,MPC,Capex_Channel_Loss_$B,Wealth_Channel_Loss_$B,Combined_Loss_$B,GDP_Share_Pct,Illustrative,Basis
+United States,30767.1,"BEA NIPA 2025 ($30,767.1B; validated register M-GDP)",400.0,478.32,0.3,0.04,120.0,19.1,139.1,0.452,N,Default calibration: reproduces Table 7.12 severe-combined row
+European Union,21200.0,"World Bank WDI NY.GDP.MKTP.CD 2025 ($21,243.2B), rounded",150.0,150.0,0.3,0.04,45.0,6.0,51.0,0.241,Y,"Stated illustrative scenario (30% capex-cut severity, no multiplier); replace inputs with local vintage"
+China,19500.0,"World Bank WDI NY.GDP.MKTP.CD 2025 ($19,498.0B), rounded",180.0,200.0,0.3,0.04,54.0,8.0,62.0,0.318,Y,"Stated illustrative scenario (30% capex-cut severity, no multiplier); replace inputs with local vintage"
+Japan,4400.0,"World Bank WDI NY.GDP.MKTP.CD 2025 ($4,435.2B), rounded",50.0,60.0,0.3,0.04,15.0,2.4,17.4,0.395,Y,"Stated illustrative scenario (30% capex-cut severity, no multiplier); replace inputs with local vintage"
+South Korea,1900.0,"World Bank WDI NY.GDP.MKTP.CD 2025 ($1,872.4B), rounded",30.0,35.0,0.3,0.04,9.0,1.4,10.4,0.547,Y,"Stated illustrative scenario (30% capex-cut severity, no multiplier); replace inputs with local vintage"
