@@ -346,9 +346,7 @@ python3 build_prediction_artifacts.py         # stage 10 only (needs article/ PD
 | Missing TeX inputs | Run the `ai_ecosystem_model` stage first; resume with `--from` |
 | Pipeline hangs on `pdflatex` | The stage runs `pdflatex -interaction=nonstopmode`, so a hang usually means it is waiting on stdin — check `article/ai_circularity_article.log` and look for an unclosed environment in the `.tex` |
 | Stage 10 fails on `pandoc` | `build_prediction_artifacts.py` needs the pandoc binary (≥ 3): `brew install pandoc` / `apt install pandoc`, or stop after the PDF with `--skip-prediction` |
-| Integration tests choke on `figures/` or `tables/` | Stray conflict duplicates (`figure_1 2.png`, `table_x 3.xlsx`, …) break the directory-globbing gates — move any `* N.*` files out of `figures/` and `tables/` and re-run. On an iCloud-synced checkout these are conflict copies from the sync engine racing rapid rebuilds (see next row) |
-| Large outputs vanish or gain ` 2`/` 3` suffixes (`*.docx`, article PDF, `prediction.html` show as `.icloud` placeholders) | iCloud "Optimize Mac Storage" evicts/offloads big binaries and conflict-renames fast rewrites. Durable fixes (pick one): Finder → right-click the repo → "Keep Downloaded"; System Settings → iCloud → turn off Optimize Mac Storage; or move the repo out of the synced Desktop/Documents folder. After restoring (re-run the stage or promote the newest ` 2`/` 3` copy to the canonical name), re-run the affected tests promptly |
-| `.xlsx` files differ after a rebuild | Expected: `.xlsx`/PDF embeds carry creation timestamps, so byte-identity across runs is not guaranteed — the gates compare parsed content, not bytes |
+| Integration tests choke on `figures/` or `tables/` | Stray conflict duplicates (`figure_1 2.png`, `table_x 3.xlsx`, …) break the directory-globbing gates — move any `* N.*` files out of `figures/` and `tables/` and re-run |
 | Suite stops at `tests`: `test_no_orphan_tables_in_dashboard_payload` lists CSVs | Every `tables/*.csv` must be reachable from the dashboard payload (diag keys, `R()` reads, or mirrors). If the test names files, the newly added producer isn't surfacing them yet — add diag/title coverage in `build_interactive_dashboard.py` (see the `pred_*` loop) instead of weakening the test |
 | `ModuleNotFoundError` mid-stage | Re-run the `pip install` line above inside the active virtual environment; each stage's exact requirement subset is listed under [Quickstart](#quickstart) |
 
@@ -384,7 +382,7 @@ PDF (`article/ai_circularity_article.pdf`). Add your preferred citation
 format here, for example:
 
 ```
-Keerikkattil, Ranjith. "Circular Capital in the Artificial Intelligence Stack:
+Keerikkattil, Ranjith V. "Circular Capital in the Artificial Intelligence Stack:
 A Game-Theoretic Analysis of Market Power, Financial Fragility, and Welfare."
 University of Baltimore, Merrick School of Business. September 2026.
 Source code: https://github.com/ranjithvijik/airesearch.
