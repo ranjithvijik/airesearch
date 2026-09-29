@@ -4,7 +4,7 @@
 [![Tests](https://img.shields.io/badge/tests-364%2F364-brightgreen)](#tests-and-coverage)
 [![Coverage](https://img.shields.io/badge/coverage-90%25-brightgreen)](#tests-and-coverage)
 
-*Licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) — see [LICENSE](LICENSE).*
+*Licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) — see [LICENSE](LICENSE).* 
 
 Models the AI industry as a four-archetype game (Hardware, Cloud Providers,
 Foundation Models, LLM Wrappers) bound by 17 committed circular-financing edges ($675.40B; 19 rows tracked
